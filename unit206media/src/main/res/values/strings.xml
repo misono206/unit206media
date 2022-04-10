@@ -1,0 +1,19 @@
+<resources>
+    <string name="ad">広告</string>
+    <string name="action_cancel">cancel</string>
+
+    <string name="progress_doing">処理中&#8230;</string>
+    <string name="progress_canceled">canceled</string>
+    <string name="progress_saved">saved</string>
+    <string name="progress_save_error">save error</string>
+    <string name="progress_loaded">loaded</string>
+    <string name="progress_load_error">load error</string>
+
+    <string name="select_image_format">select image format</string>
+    <string name="select_image_quality">image quality</string>
+    <string name="select_image_quality_value">image quality (0～100)</string>
+
+    <string name="color_action_done">done</string>
+    <string name="color_picker">color picker</string>
+
+</resources>

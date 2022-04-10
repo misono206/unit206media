@@ -1,0 +1,19 @@
+<resources>
+    <string name="ad">広告</string>
+    <string name="action_cancel">キャンセル</string>
+
+    <string name="progress_doing">処理中&#8230;</string>
+    <string name="progress_canceled">キャンセルしました</string>
+    <string name="progress_saved">保存しました</string>
+    <string name="progress_save_error">保存できませんでした</string>
+    <string name="progress_loaded">読み込みました</string>
+    <string name="progress_load_error">読み込みできませんでした</string>
+
+    <string name="select_image_format">画像フォーマット選択</string>
+    <string name="select_image_quality">画像品質指定</string>
+    <string name="select_image_quality_value">画像品質(0～100)</string>
+
+    <string name="color_action_done">確定</string>
+    <string name="color_picker">カラーピッカー</string>
+
+</resources>
